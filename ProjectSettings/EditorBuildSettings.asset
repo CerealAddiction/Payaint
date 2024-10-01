@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MAINMENU.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PICKER.unity
+    guid: 86292ad81db794726a9c9bad333af70d
+  - enabled: 1
+    path: Assets/Scenes/Draw HONSE.unity
+    guid: 2dccd0004d5cc4751b16549612dc2d35
   m_configObjects: {}
