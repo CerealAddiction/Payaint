@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Draw HONSE.unity
     guid: 2dccd0004d5cc4751b16549612dc2d35
+  - enabled: 1
+    path: Assets/Scenes/Draw GATO.unity
+    guid: 3c6a9bd45b1d26847a42ab5b9aa52eda
+  - enabled: 1
+    path: "Assets/Scenes/Draw BL\xC4NK.unity"
+    guid: 8de41172e166ea74b96711b649b25ce4
   m_configObjects: {}
