@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Draw HONSE.unity
     guid: 2dccd0004d5cc4751b16549612dc2d35
+  - enabled: 0
+    path: Assets/Scenes/Draw GATITO.unity
+    guid: 48b17651b62e2433aa2e0116d7882083
   m_configObjects: {}
