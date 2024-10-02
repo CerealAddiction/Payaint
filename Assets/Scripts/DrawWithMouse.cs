@@ -8,7 +8,7 @@ public class DrawWithMouse : MonoBehaviour
     private Vector3 previousPosition;
 
     [SerializeField]
-    private float minDistance = 0.1f;
+    private float minDistance = 0.05f;
 
     private void Start()
     {
